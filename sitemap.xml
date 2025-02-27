@@ -2,17 +2,22 @@
 <urlset>
     <url>
         <loc>
-            http://localhost:8000/hello-world/
+            http://localhost:8000/mosque-visit/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/eidi/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/sacrifice/
         </loc>
     </url>
     <url>
         <loc>
             http://localhost:8000/
-        </loc>
-    </url>
-    <url>
-        <loc>
-            http://localhost:8000/why-is-eid-special-to-me/
         </loc>
     </url>
     <url>
