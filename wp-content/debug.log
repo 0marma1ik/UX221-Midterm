@@ -2,3 +2,7 @@
 [27-Feb-2025 00:49:56 UTC] PHP Fatal error:  Out of memory (allocated 31457280) (tried to allocate 4096 bytes) in /workspaces/UX221-Midterm/.wordpress/wp-includes/class-wp-theme-json.php on line 4240
 [27-Feb-2025 00:49:57 UTC] PHP Fatal error:  Out of memory (allocated 31457280) (tried to allocate 32768 bytes) in /workspaces/UX221-Midterm/.wordpress/wp-admin/includes/class-wp-posts-list-table.php on line 974
 [27-Feb-2025 00:49:58 UTC] PHP Fatal error:  Out of memory (allocated 31457280) (tried to allocate 155648 bytes) in /workspaces/UX221-Midterm/.wordpress/wp-admin/admin-ajax.php on line 39
+[27-Feb-2025 00:56:30 UTC] PHP Fatal error:  Out of memory (allocated 31457280) (tried to allocate 73728 bytes) in /workspaces/UX221-Midterm/.wordpress/wp-admin/index.php on line 13
+[27-Feb-2025 00:56:52 UTC] PHP Fatal error:  Out of memory (allocated 31457280) (tried to allocate 73728 bytes) in /workspaces/UX221-Midterm/.wordpress/wp-admin/index.php on line 13
+[27-Feb-2025 00:58:09 UTC] PHP Fatal error:  Out of memory (allocated 31457280) (tried to allocate 73728 bytes) in /workspaces/UX221-Midterm/.wordpress/wp-admin/index.php on line 13
+[27-Feb-2025 00:58:19 UTC] PHP Fatal error:  Out of memory (allocated 31457280) (tried to allocate 73728 bytes) in /workspaces/UX221-Midterm/.wordpress/wp-admin/index.php on line 13
